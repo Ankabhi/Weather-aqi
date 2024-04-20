@@ -76,6 +76,7 @@ To get started with WeatherMate:
 - **Webpack**: For bundling.
 - **Babel**: For transpiling.
 - **Figma**: For design and prototyping.
+- **OpenWeatherMap API**: For weather data.
 
 ## Contributing
 
